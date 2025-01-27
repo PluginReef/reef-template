@@ -1,0 +1,6 @@
+name: Reef-Template
+version: 1.0-SNAPSHOT
+main: org.reef.template.TemplatePlugin
+description: 'Reef-Template.'
+website: 'dc.pluginreef.eu'
+author: 'author'
